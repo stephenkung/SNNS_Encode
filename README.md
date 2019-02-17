@@ -6,4 +6,4 @@ encode.c/encode.h-------transfer net to .c file.
 pattern_gen.py----------generate training data and test data.  
 test.pat----------------test data.  
 train.pat---------------training data.       
-main.cpp----------------main function to veif the network.     
+main.cpp----------------main function to verify the network.     
